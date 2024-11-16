@@ -6,3 +6,11 @@
 1731756503160: /favicon.ico New Request Received
 1731756516613: /contact-us New Request Received
 1731756516747: /favicon.ico New Request Received
+1731759142543: GET / New Request Received
+1731759143020: GET /favicon.ico New Request Received
+1731759373899: GET / New Request Received
+1731759374242: GET /favicon.ico New Request Received
+1731759386110: GET /singup New Request Received
+1731759386224: GET /favicon.ico New Request Received
+1731759397738: GET /signup New Request Received
+1731759397852: GET /favicon.ico New Request Received
